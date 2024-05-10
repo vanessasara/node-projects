@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "project11_oop_mybank",
+  "version": "1.0.0",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "inquirer": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "@types/inquirer": "^9.0.7"
+  },
+  "compilerOptions": {
+    "typeRoots": [
+      "node_modules/@types",
+      "custom_types"
+    ]
+  }
+}
