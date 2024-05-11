@@ -62,7 +62,7 @@ const atmfunc = async (user) => {
         return;
     }
     if (ans.transaction === "exit") {
-        console.log("Thanks for using ATM Made by Syeda Hafsa");
+        console.log("Thanks for using ATM ");
     }
 };
 const users = createuser();
