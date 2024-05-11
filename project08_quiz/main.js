@@ -2,8 +2,8 @@ import inquirer from 'inquirer';
 const questions = [
     {
         question: "What does TypeScript compile to?",
-        choices: ["JavaScript", "HTML", "CSS"],
-        answer: "JavaScript"
+        choices: ["Typescript"],
+        answer: "Typescript"
     },
     {
         question: "Which keyword is used to declare variables in TypeScript?",
