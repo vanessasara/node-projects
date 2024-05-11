@@ -74,7 +74,7 @@ const atmfunc = async (user: User) => {
         return;
     }
     if (ans.transaction === "exit") {
-        console.log("Thanks for using ATM Made by Syeda Hafsa");
+        console.log("Thanks for using ATM ");
     }
 }
 
